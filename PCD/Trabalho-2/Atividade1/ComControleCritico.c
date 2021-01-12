@@ -19,7 +19,7 @@ void CalculaSoma()
 
 void cliente(int i)
 {
-    //#pragma omp parallel
+    
     while(SOMA < N)
     {
         while(respond != i)
